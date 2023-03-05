@@ -1,2 +1,2 @@
-//Just go to problems section on leetcode there you have a search bar somewhere below search these question numbers there.
+//Just go to problems section on leetcode there you have a search bar somewhere at the bottom search these question numbers there.
 Count primes question --> Q.204 Leetcode
