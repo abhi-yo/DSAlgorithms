@@ -41,9 +41,9 @@ void merge(int* arr, int s, int e) {
         arr[mainArrayIndex++] = left[leftIndex++];
     }
     // copy remaining values from right array
-    while (leftIndex < len1) {
-        arr[mainArrayIndex++] = right[rightIndex++];
-    }
+    while (rightIndex < len2) {
+    arr[mainArrayIndex++] = right[rightIndex++];
+}
     //delete right and left array to save space.
 }
 
