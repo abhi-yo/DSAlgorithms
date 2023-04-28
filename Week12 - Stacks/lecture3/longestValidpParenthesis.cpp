@@ -1,4 +1,4 @@
-//LC-32
+//LeetCode->Q.32
 class Solution {
 public:
     int longestValidParentheses(string s) {
