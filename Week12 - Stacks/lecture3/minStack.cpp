@@ -1,4 +1,4 @@
-//LC->155
+//LeetCode->Q.155
 class MinStack {
 public:
     vector<pair<int,int>>st;
