@@ -1,4 +1,4 @@
-# Data Structure and Algorithms
+# Data Structures and Algorithms
 
 This repository contains codes of dsa from dsa-supreme batch of Love Babbar.
 
